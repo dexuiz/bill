@@ -1,0 +1,26 @@
+{
+  "bills": [
+    {
+      "id": 1,
+      "number":"9699727877",
+      "value": "900",
+      "email": "dex345z@gmail.com"
+    },
+      {
+      "id": 2,
+      "number":"9699727878",
+      "value": "450",
+      "email": "saimshaikh8297@gmail.com"
+    },
+    {
+      "id": 3,
+      "number":"9699727879",
+      "value": "300",
+      "email": "blahblah@gmail.com"
+    },
+   
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
